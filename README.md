@@ -1,6 +1,8 @@
 # Nutanix playbook
 Nutanixプラットフォーム上での開発(Nutanix CalmやPrismのX-Playのプレイブックなど)でご活用頂けるサンプルプレイブックを提供するレポジトリです。  
 
+Calm -- Nutanix Calmのブループリントやランブックを格納します。
+
 # 参考
 [Nutanix Calm Blueprint](https://github.com/nutanix/blueprints)  
 [Nutanix API Automation](https://github.com/nutanix/Automation)  
